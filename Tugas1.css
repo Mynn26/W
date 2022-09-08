@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+body{
+    background-color: rgb(156, 156, 156);
+    font-family: 'Lato', sans-serif;
+    color: orangered;
+    font-size: 14px;
+}
+.form-control{
+    width: 300px;
+}
+/* Style Kategori */
+.img-fluid{
+    width: 80px;
+}
+.img-fluid:hover{
+    transform: scale(1.2);
+    transition: 0.2s;
+}
+.row-container{
+    background-color: rgb(217, 217, 217);
+    margin: 0px;
+}
+/* Style Kategori */
+
+/* Style Produk */
+
+.card:hover{
+    border: 1px solid #2d2d2d;
+}
